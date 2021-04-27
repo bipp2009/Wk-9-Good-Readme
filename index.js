@@ -25,6 +25,11 @@ const questions = [
         name: 'license',
         message: 'What is your project licensed under?',
         choices: ['None', 'MIT', 'Apache-2.0']
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'How can somebody else install your application?'
     }
 ];
 
