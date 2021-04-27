@@ -19,6 +19,12 @@ const questions = [
         tyle: 'input',
         name: "description",
         message: "Please describe your project"
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What is your project licensed under?',
+        choices: ['None', 'MIT', 'Apache-2.0']
     }
 ];
 
