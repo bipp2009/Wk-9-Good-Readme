@@ -41,6 +41,11 @@ const questions = [
         name: 'contribution',
         message: 'How do you want other users to contribute to the README.MD application?',
     },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'How should a user test your applciation?',
+    },
 ];
 
 // TODO: Create a function to write README file
