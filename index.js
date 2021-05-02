@@ -29,12 +29,17 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'How can somebody else install your application?'
+        message: 'How can somebody else install your application?',
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'How do you use the application?'
+        message: 'How do you use the application?',
+    },
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'How do you want other users to contribute to the README.MD application?',
     },
 ];
 

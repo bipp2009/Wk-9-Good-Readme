@@ -56,7 +56,7 @@ ${data.usage}
 
 ## Contributing
 
-
+${data.contributing}
 
 ## Tests
 
