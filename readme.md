@@ -1,10 +1,10 @@
-# swefeg
+# Good ReadME
 
 
 
 ## Description
 
-egsege
+Creating a command line application to generate a good read me file by asking the user a series of questions.
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -15,23 +15,23 @@ egsege
 
 ## Installation
 
-rg
+run node index.js on the command line
 
 ## Usage
 
-de
+answering the questions that are generated
 
 ## Contributing
 
-d
+By utilising the application and emailling me
 
 ## Tests
 
-d
+by running the node index.js application
 
 ## Questions
 
-Any questions please contact me by email d or else [github](https://www.github.com/bipp2009).
+Any questions please contact me by email bipp2009@gmail.com or else [github](https://www.github.com/bipp2009).
 
 
 
