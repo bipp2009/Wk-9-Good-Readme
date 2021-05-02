@@ -30,7 +30,12 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'How can somebody else install your application?'
-    }
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'How do you use the application?'
+    },
 ];
 
 // TODO: Create a function to write README file

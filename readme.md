@@ -1,25 +1,25 @@
-# t
+# kjj
 
-
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-d
+kj
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-
+* [License](#license)
 
 ## Installation
 
-i
+kjkj
 
 ## Usage
 
-
+kljj
 
 ## Contributing
 
@@ -33,6 +33,9 @@ i
 
 
 
-
+## License
+  
+  Licensed under MIT
+  
 
 
