@@ -56,7 +56,7 @@ ${data.usage}
 
 ## Contributing
 
-${data.contributing}
+${data.contribution}
 
 ## Tests
 
@@ -64,6 +64,7 @@ ${data.tests}
 
 ## Questions
 
+Any questions please contact me by email ${data.email} or else [github](https://www.github.com/${data.githubusername}).
 
 
 ${renderLicenseSection(data.license)}
