@@ -1,12 +1,10 @@
-# Good Readme
+# Good Read 
 
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+![Github license](https://img.shields.io/badge/license-Apache-2.0-blue.svg)
 
 ## Description
 
-Generate a command line interface which asks the user a series of questions which generates a good read me file using user input.
-
-## Table of Contents
+A command line interface that generates a mark down file using node by asking the user a series of questions
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -17,19 +15,19 @@ Generate a command line interface which asks the user a series of questions whic
 
 ## Installation
 
-goto github and locate the repository
+goto the github repository bipp2009 and download the dependencies by running npm install then run the node index.js file
 
 ## Usage
 
-run node index.js
+By answering a series of user questions
 
 ## Contributing
 
-provide feedback by email bipp2009@gmail.com and github username: bipp2009
+by email at bipp2009@gmail.com or my git hub repo bipp2009
 
 ## Tests
 
-answer the series of questions
+by answering the questions
 
 ## Questions
 
@@ -38,7 +36,7 @@ Any questions please contact me by email bipp2009@gmail.com or else [github](htt
 
 ## License
   
-  Licensed under MIT
+  Licensed under Apache-2.0
   
 
 
