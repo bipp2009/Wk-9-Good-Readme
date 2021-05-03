@@ -1,39 +1,44 @@
-# Good ReadME
+# Good Readme
 
-
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Creating a command line application to generate a good read me file by asking the user a series of questions.
+Generate a command line interface which asks the user a series of questions which generates a good read me file using user input.
+
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-
+* [License](#license)
 
 ## Installation
 
-run node index.js on the command line
+goto github and locate the repository
 
 ## Usage
 
-answering the questions that are generated
+run node index.js
 
 ## Contributing
 
-By utilising the application and emailling me
+provide feedback by email bipp2009@gmail.com and github username: bipp2009
 
 ## Tests
 
-by running the node index.js application
+answer the series of questions
 
 ## Questions
 
 Any questions please contact me by email bipp2009@gmail.com or else [github](https://www.github.com/bipp2009).
 
 
-
+## License
+  
+  Licensed under MIT
+  
 
 
